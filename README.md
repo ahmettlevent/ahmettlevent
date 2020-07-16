@@ -1,9 +1,4 @@
-### Hi there 👋
-Here are some ideas to get you started:
+As Kanye West said:
 
-<h3>Selam Ben <strong>Ahmet</strong><h3>
-<style>
-h3{
-color:blue;  
-}
-</style>
+> We're living the future so
+> the present is our past.
